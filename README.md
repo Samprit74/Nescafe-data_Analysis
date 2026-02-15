@@ -1,3 +1,5 @@
+![Nescafe Sales Data Analysis Banner](banner.png)
+
 # ☕ Nescafe Sales Data Analysis Project  
 **Tool Used:** Google Sheets  
 **Level:** Spreadsheet Data Analysis Practice  
@@ -183,13 +185,13 @@ Also analyzed using Pivot Tables for full market comparison.
 
 # 📈 Key Skills Demonstrated
 
-- Data cleaning & preprocessing
-- Text transformation functions
-- Date extraction & time calculations
-- Conditional logic handling
-- Business KPI aggregation
-- Budget vs Actual comparison
-- Pivot table analysis
+- Data cleaning & preprocessing  
+- Text transformation functions  
+- Date extraction & time calculations  
+- Conditional logic handling  
+- Business KPI aggregation  
+- Budget vs Actual comparison  
+- Pivot table analysis  
 
 ---
 
@@ -214,5 +216,5 @@ Section F (Business Insights) can be added as an advanced extension.
 
 ---
 
-## Author
+## Author  
 Data Analysis Practice Project – Spreadsheet Analytics
