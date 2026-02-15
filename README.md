@@ -1,25 +1,30 @@
-![Nescafe Sales Data Analysis Banner](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Nescafe Sales Data Analysis Banner" width="100%">
+</p>
 
-# ☕ Nescafe Sales Data Analysis Project  
-**Tool Used:** Google Sheets  
-**Level:** Spreadsheet Data Analysis Practice  
-**Scope Covered:** Section A – Section E  
+<h1 align="center">☕ Nescafe Sales Data Analysis Project</h1>
+
+<p align="center">
+  <b>Tool Used:</b> Google Sheets &nbsp; | &nbsp;
+  <b>Level:</b> Spreadsheet Data Analysis Practice &nbsp; | &nbsp;
+  <b>Scope:</b> Section A – Section E
+</p>
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes the Nescafe Sales Dataset containing product, sales, marketing, and customer information across multiple markets.
+This project analyzes the **Nescafe Sales Dataset**, which contains product, sales, marketing, and customer information across multiple markets.
 
-The objective was to:
+### 🎯 Objectives
 
-- Perform structured data cleaning
-- Apply spreadsheet text and date functions
-- Conduct logical validation checks
-- Perform business aggregation analysis
-- Compare budget vs actual performance
+- Perform structured data cleaning  
+- Apply spreadsheet text and date functions  
+- Conduct logical validation checks  
+- Perform business aggregation analysis  
+- Compare budget vs actual performance  
 
-All tasks were completed using Google Sheets functions and Pivot Tables.
+All tasks were completed using **Google Sheets functions and Pivot Tables**.
 
 ---
 
@@ -70,7 +75,7 @@ All tasks were completed using Google Sheets functions and Pivot Tables.
 # 📅 Section B – Date & Time Functions
 
 ### 1️⃣ Format Order Date
-Format → Custom Date → `DD-MMM-YYYY`
+`Format → Custom Date → DD-MMM-YYYY`
 
 ### 2️⃣ Display Today’s Date
 ```excel
@@ -169,7 +174,7 @@ Format → Custom Date → `DD-MMM-YYYY`
 =COUNTIF(C:C,"Central")
 ```
 
-Also analyzed using Pivot Tables for full market comparison.
+Also analyzed using **Pivot Tables** for complete market comparison.
 
 ### 4️⃣ Sales Variance (Actual vs Budget)
 ```excel
@@ -197,11 +202,13 @@ Also analyzed using Pivot Tables for full market comparison.
 
 # 🏁 Project Completion Status
 
-✔ Section A – Data Cleaning  
-✔ Section B – Date Functions  
-✔ Section C – Data Transformation  
-✔ Section D – Logical Checks  
-✔ Section E – Aggregation & Business Analysis  
+| Section | Status |
+|----------|--------|
+| Section A – Data Cleaning | ✔ Completed |
+| Section B – Date Functions | ✔ Completed |
+| Section C – Data Transformation | ✔ Completed |
+| Section D – Logical Checks | ✔ Completed |
+| Section E – Aggregation & Analysis | ✔ Completed |
 
 Section F (Business Insights) can be added as an advanced extension.
 
@@ -209,12 +216,12 @@ Section F (Business Insights) can be added as an advanced extension.
 
 # 📂 How to Use
 
-1. Open the dataset in Google Sheets.
-2. Apply formulas as structured above.
-3. Use Pivot Tables for aggregated business reporting.
-4. Analyze performance gaps and profitability trends.
+1. Open the dataset in Google Sheets.  
+2. Apply formulas exactly as structured above.  
+3. Use Pivot Tables for aggregated reporting.  
+4. Analyze performance gaps and profitability trends.  
 
 ---
 
-## Author  
-Data Analysis Practice Project – Spreadsheet Analytics
+## 👤 Author  
+**Data Analysis Practice Project – Spreadsheet Analytics**
