@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Nescafe Sales Data Analysis Banner" width="100%">
+  <img src="banner.png" alt="Nescafe Sales Data Analysis Banner" height="310" width="100%">
 </p>
 
 <h1 align="center">☕ Nescafe Sales Data Analysis Project</h1>
